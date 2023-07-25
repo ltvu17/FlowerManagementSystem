@@ -1,0 +1,219 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2023, 10:56:40 AM
+    Author     : LENOVO
+*/
+*{
+  box-sizing: border-box;  
+}
+html{
+    font-family: cursive;
+    font-size: 15px;
+    overflow-x: hidden;
+    
+}
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+    background-size: inherit;
+    color: white;
+}
+header,section,footer,nav,ul{
+    float: left;width: 100%;
+    
+}
+header ul{
+    position: absolute;
+    display: inline;
+    float: right;
+    margin-top: 2%;
+    padding-left: 5%;
+}
+header,nav,footer{
+    height: 100px;
+    
+}
+section{
+    height: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+header li{    
+    list-style-type: none;
+    text-align: center;
+    display: inline;
+    margin-left:  4%;
+    margin-right:  4%;
+    border: 0;
+    margin-top: 5%;
+    background-color: #006666;
+    border-radius: 10px;
+    padding-top: 5px;
+ 
+}
+header li:last-child{
+   margin-left: 65%;
+   
+}    
+
+.formsearch{
+    padding-top: 50px;
+    
+}
+.formsearch button,.shopping button,.button{
+    color: white;
+    background-color: #006666;
+    border-radius: 10px;
+}
+.formsearch button:hover,.shopping button:hover,.button:hover{
+    color: #006666;
+    background-color: white;
+    cursor: pointer;
+}
+.formsearch select{
+    border-color: white;
+    border-style: outset dotted;
+    border-radius: 20px;
+}
+.formsearch select:hover{
+    color: white;
+    background-color: #006666;
+    border-color: #006666;
+}
+.formsearch select option{
+    color: #006666;
+    background-color: white;
+}
+.formsearch select option:target{
+    color: white;
+    background-color: #006666;
+}
+.formsearch input[type=text]{
+  border: none;
+  color: white;
+  background-color: #006666;
+  border-bottom: 2px solid white;
+  border-radius: 20px;
+}
+
+a{
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+    padding:10px 2%;
+    border-radius: 50px 50px;
+    font-family: cursive;
+    
+    
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: #009900 10px;
+}
+header li a:hover{
+    background-color: #006666;
+    color: white;
+    cursor: pointer;
+}
+.tableregister table tr td{
+    display: block;
+}
+.product{
+    width: 10%;
+    heigh: 10%;
+    background-color: black;
+}
+.productable tr:first-child{
+    background-color: #e1f5eb;
+    width: 100%;
+    padding-right: 300%;
+    padding-left: 300%;
+    display: inline-table;
+    
+}
+
+.productable tr:first-child td{
+    margin-left: 100%;
+    margin-right: 100px;       
+}
+
+.displaytable,td,th{
+    border: 1px solid #006666;
+    color: #006666;
+    background-color: white;
+}
+.displaytable{
+    width: 100%;
+}
+.displaytable a{
+    color: #006666;
+    padding: 0 1%;
+}
+.displaytable a:hover{
+    color: #ff0000;
+    background-color: coral;
+}
+.plantimg{     
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: #006666;
+    
+}
+.updatebutton button{
+    position: inherit;
+    display: inline-block;  
+    color: #006666;
+    background-color: white;
+    border: buttonshadow solid;
+}
+.updatebutton div{
+    display: none;
+    position: absolute;
+    background-color: white;
+}
+.updatebutton div p{
+    display: block;
+}
+.updatebutton:hover.updatebutton div{
+    display: block;
+}
+
+.updatebutton button:hover{
+    background-color: #009900;
+    color: white
+             
+}
+.updatebutton:hover{
+    color:#006666;
+}
+.shopping{
+    border: #006666 solid;
+    border-collapse: collapse;
+}
+.shopping th{
+    color: white;
+    background-color: #006666;
+    border: #006666 solid;
+}
+
+.shopping td{
+    background-color: white;
+    color: #006666;
+    border: #006666 solid;
+}
+.shopping a{
+    color: #006666;
+}
+
+
+

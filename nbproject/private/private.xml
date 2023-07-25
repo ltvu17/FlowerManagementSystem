@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/updateStatusAccountServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/manageOrders.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/header.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/header_loginedAdmin.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/header_loginedUser.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/dao/PlanDAO.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/manageAccount.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/changeProfile.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/invalid.html</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/CSS/Admincss.css</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/addToCartServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/manageCategories.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/manageAccountServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/orderDetail.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/adminindex.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/login.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/mainControllerServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/dao/OrderDAO.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/viewPlant.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/viewCart.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/CSS/mycss.css</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/getPlantServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/index.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/personalPage.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/orderAgainServlet.java</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/web/managePlants.jsp</file>
+            <file>file:/D:/JAVA/FlowerManagementSystem/src/java/sample/servlet/loginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
